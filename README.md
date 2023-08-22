@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on a JavaScript (ES6), React.js, Express, Node.js, and MongoDB website project<br>👯 I’m looking to collaborate on open-source projects related to art, sustainability and cybersecurity<br>⚡ Fun fact : before being a web developer, I was once sure my dream job was becoming a tattoo artist <br>🌱 I’m currently learning Python and C
+🔭 I’m currently working on a JavaScript (ES6), React.js, Express, Node.js, and MongoDB website project<br>👯 I’m looking to collaborate on open-source projects related to art, sustainability and cybersecurity<br>⚡ Fun fact : before becoming a web developer, I was once sure my dream job was becoming a tattoo artist <br>🌱 I’m currently learning C
 
 ## 🌐 Socials:
 
